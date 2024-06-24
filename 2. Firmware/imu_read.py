@@ -1,7 +1,7 @@
 import serial
 import time
 
-def read_imu_data(port='COM11', baudrate=57600):
+def read_imu_data(port='COM11', baudrate=115200):
 # def read_imu_data(controller, port='COM11', baudrate=57600):
     ser = serial.Serial(port, baudrate)
     time.sleep(2)
@@ -19,6 +19,7 @@ def read_imu_data(port='COM11', baudrate=57600):
                 parts = line.split(',')
                 x = float(parts[0])
                 y = float(parts[1])
+                z = float(parts[2])
                 print(f'X: {x}, Y: {y}')
 
                 dx = x - last_x
@@ -37,4 +38,4 @@ def read_imu_data(port='COM11', baudrate=57600):
             time.sleep(sleep_time)
 
 if __name__ == "__main__":
-    read_imu_data(port='COM11', baudrate=57600)
+    read_imu_data(port='COM11', baudrate=115200)

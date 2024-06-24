@@ -1,3 +1,99 @@
 2024-06-10 15:34:36.146 | INFO     | pid_controller:__init__:26 - Initialization Two Line Actuators: X_controller and Y_controller
 2024-06-10 15:34:42.938 | INFO     | pid_controller:calibration:46 - Calibration Result: X_controller Initial Position (0, 0); Y_controller Initial Position (3169, 8309)
 2024-06-10 15:34:42.939 | INFO     | pid_controller:calibration:47 - Calibration Finished
+2024-06-10 17:11:38.212 | INFO     | pid_controller:__init__:26 - Initialization Two Line Actuators: X_controller and Y_controller
+2024-06-10 17:11:44.617 | INFO     | pid_controller:calibration:46 - Calibration Result: X_controller Initial Position (1899, 2028); Y_controller Initial Position (1042, 144)
+2024-06-10 17:11:44.618 | INFO     | pid_controller:calibration:47 - Calibration Finished
+2024-06-10 17:12:21.683 | INFO     | pid_controller:__init__:26 - Initialization Two Line Actuators: X_controller and Y_controller
+2024-06-10 17:12:28.084 | INFO     | pid_controller:calibration:46 - Calibration Result: X_controller Initial Position (1454, 2231); Y_controller Initial Position (1130, -389)
+2024-06-10 17:12:28.085 | INFO     | pid_controller:calibration:47 - Calibration Finished
+2024-06-10 17:13:32.309 | INFO     | pid_controller:__init__:26 - Initialization Two Line Actuators: X_controller and Y_controller
+2024-06-10 17:13:38.712 | INFO     | pid_controller:calibration:46 - Calibration Result: X_controller Initial Position (1442, 2244); Y_controller Initial Position (718, 138)
+2024-06-10 17:13:38.713 | INFO     | pid_controller:calibration:47 - Calibration Finished
+2024-06-10 17:15:11.261 | INFO     | pid_controller:__init__:26 - Initialization Two Line Actuators: X_controller and Y_controller
+2024-06-10 17:15:17.652 | INFO     | pid_controller:calibration:46 - Calibration Result: X_controller Initial Position (1386, 2073); Y_controller Initial Position (579, -113)
+2024-06-10 17:15:17.653 | INFO     | pid_controller:calibration:47 - Calibration Finished
+2024-06-10 17:15:53.780 | INFO     | pid_controller:__init__:26 - Initialization Two Line Actuators: X_controller and Y_controller
+2024-06-10 17:16:00.173 | INFO     | pid_controller:calibration:46 - Calibration Result: X_controller Initial Position (1388, 1949); Y_controller Initial Position (368, -320)
+2024-06-10 17:16:00.175 | INFO     | pid_controller:calibration:47 - Calibration Finished
+2024-06-10 17:16:52.553 | INFO     | pid_controller:__init__:26 - Initialization Two Line Actuators: X_controller and Y_controller
+2024-06-10 17:16:58.943 | INFO     | pid_controller:calibration:46 - Calibration Result: X_controller Initial Position (1304, 1816); Y_controller Initial Position (319, -408)
+2024-06-10 17:16:58.944 | INFO     | pid_controller:calibration:47 - Calibration Finished
+2024-06-10 18:16:21.812 | INFO     | pid_controller:__init__:26 - Initialization Two Line Actuators: X_controller and Y_controller
+2024-06-10 18:16:28.208 | INFO     | pid_controller:calibration:46 - Calibration Result: X_controller Initial Position (1114, 2312); Y_controller Initial Position (1182, 112)
+2024-06-10 18:16:28.209 | INFO     | pid_controller:calibration:47 - Calibration Finished
+2024-06-10 18:21:32.188 | INFO     | pid_controller:__init__:26 - Initialization Two Line Actuators: X_controller and Y_controller
+2024-06-10 18:21:38.583 | INFO     | pid_controller:calibration:46 - Calibration Result: X_controller Initial Position (984, 2255); Y_controller Initial Position (1220, 252)
+2024-06-10 18:21:38.584 | INFO     | pid_controller:calibration:47 - Calibration Finished
+2024-06-10 18:25:29.350 | INFO     | pid_controller:__init__:26 - Initialization Two Line Actuators: X_controller and Y_controller
+2024-06-10 18:25:35.750 | INFO     | pid_controller:calibration:46 - Calibration Result: X_controller Initial Position (1144, 2205); Y_controller Initial Position (1280, 262)
+2024-06-10 18:25:35.751 | INFO     | pid_controller:calibration:47 - Calibration Finished
+2024-06-10 18:26:47.189 | INFO     | pid_controller:__init__:26 - Initialization Two Line Actuators: X_controller and Y_controller
+2024-06-10 18:26:53.595 | INFO     | pid_controller:calibration:46 - Calibration Result: X_controller Initial Position (1130, 2182); Y_controller Initial Position (1310, 105)
+2024-06-10 18:26:53.595 | INFO     | pid_controller:calibration:47 - Calibration Finished
+2024-06-10 18:37:06.585 | INFO     | pid_controller:__init__:26 - Initialization Two Line Actuators: X_controller and Y_controller
+2024-06-10 18:37:12.976 | INFO     | pid_controller:calibration:46 - Calibration Result: X_controller Initial Position (1056, 2164); Y_controller Initial Position (1393, 45)
+2024-06-10 18:37:12.977 | INFO     | pid_controller:calibration:47 - Calibration Finished
+2024-06-10 20:36:06.217 | INFO     | __main__:__init__:28 - Initialization Two Line Actuators: X_controller and Y_controller
+2024-06-10 20:36:12.612 | INFO     | __main__:calibration:45 - Calibration Result: X_controller Initial Position (956, 2042); Y_controller Initial Position (7935,8050)
+2024-06-10 20:36:12.613 | INFO     | __main__:calibration:46 - Calibration Finished
+2024-06-10 20:37:31.774 | INFO     | __main__:__init__:28 - Initialization Two Line Actuators: X_controller and Y_controller
+2024-06-10 20:37:38.181 | INFO     | __main__:calibration:45 - Calibration Result: X_controller Initial Position (-2469, 2024); Y_controller Initial Position (11013,10404)
+2024-06-10 20:37:38.183 | INFO     | __main__:calibration:46 - Calibration Finished
+2024-06-10 20:59:27.817 | INFO     | pid_controller:__init__:26 - Initialization Two Line Actuators: X_controller and Y_controller
+2024-06-10 20:59:34.213 | INFO     | pid_controller:calibration:46 - Calibration Result: X_controller Initial Position (879, 1003); Y_controller Initial Position (-6667, -1979)
+2024-06-10 20:59:34.215 | INFO     | pid_controller:calibration:47 - Calibration Finished
+2024-06-10 21:00:33.637 | INFO     | pid_controller:__init__:26 - Initialization Two Line Actuators: X_controller and Y_controller
+2024-06-10 21:00:40.030 | INFO     | pid_controller:calibration:46 - Calibration Result: X_controller Initial Position (651, 664); Y_controller Initial Position (-6872, -2223)
+2024-06-10 21:00:40.032 | INFO     | pid_controller:calibration:47 - Calibration Finished
+2024-06-10 21:06:25.861 | INFO     | __main__:__init__:28 - Initialization Two Line Actuators: X_controller and Y_controller
+2024-06-10 21:06:32.257 | INFO     | __main__:calibration:45 - Calibration Result: X_controller Initial Position (585, 634); Y_controller Initial Position (-6755,-2365)
+2024-06-10 21:06:32.258 | INFO     | __main__:calibration:46 - Calibration Finished
+2024-06-10 21:07:17.963 | INFO     | __main__:__init__:28 - Initialization Two Line Actuators: X_controller and Y_controller
+2024-06-10 21:07:24.354 | INFO     | __main__:calibration:45 - Calibration Result: X_controller Initial Position (421, 679); Y_controller Initial Position (-6897,-2387)
+2024-06-10 21:07:24.355 | INFO     | __main__:calibration:46 - Calibration Finished
+2024-06-10 21:08:08.509 | INFO     | __main__:__init__:28 - Initialization Two Line Actuators: X_controller and Y_controller
+2024-06-10 21:08:14.909 | INFO     | __main__:calibration:45 - Calibration Result: X_controller Initial Position (240, 770); Y_controller Initial Position (-6985,-2386)
+2024-06-10 21:08:14.910 | INFO     | __main__:calibration:46 - Calibration Finished
+2024-06-10 21:09:01.387 | INFO     | __main__:__init__:28 - Initialization Two Line Actuators: X_controller and Y_controller
+2024-06-10 21:09:07.786 | INFO     | __main__:calibration:45 - Calibration Result: X_controller Initial Position (559, 691); Y_controller Initial Position (-7025,-2192)
+2024-06-10 21:09:07.787 | INFO     | __main__:calibration:46 - Calibration Finished
+2024-06-10 21:09:45.618 | INFO     | __main__:__init__:28 - Initialization Two Line Actuators: X_controller and Y_controller
+2024-06-10 21:09:52.011 | INFO     | __main__:calibration:45 - Calibration Result: X_controller Initial Position (210, 820); Y_controller Initial Position (-9774,-1794)
+2024-06-10 21:09:52.012 | INFO     | __main__:calibration:46 - Calibration Finished
+2024-06-10 21:11:08.268 | INFO     | __main__:__init__:28 - Initialization Two Line Actuators: X_controller and Y_controller
+2024-06-10 21:11:14.666 | INFO     | __main__:calibration:45 - Calibration Result: X_controller Initial Position (-343, 1128); Y_controller Initial Position (-9273,-2060)
+2024-06-10 21:11:14.667 | INFO     | __main__:calibration:46 - Calibration Finished
+2024-06-10 21:12:31.156 | INFO     | __main__:__init__:28 - Initialization Two Line Actuators: X_controller and Y_controller
+2024-06-10 21:12:37.547 | INFO     | __main__:calibration:45 - Calibration Result: X_controller Initial Position (151, 197); Y_controller Initial Position (-9756,-1991)
+2024-06-10 21:12:37.548 | INFO     | __main__:calibration:46 - Calibration Finished
+2024-06-10 21:22:48.455 | INFO     | __main__:__init__:28 - Initialization Two Line Actuators: X_controller and Y_controller
+2024-06-10 21:22:54.850 | INFO     | __main__:calibration:45 - Calibration Result: X_controller Initial Position (-151, 1129); Y_controller Initial Position (-9467,-2088)
+2024-06-10 21:22:54.851 | INFO     | __main__:calibration:46 - Calibration Finished
+2024-06-10 21:29:39.597 | INFO     | __main__:__init__:28 - Initialization Two Line Actuators: X_controller and Y_controller
+2024-06-10 21:29:46.000 | INFO     | __main__:calibration:45 - Calibration Result: X_controller Initial Position (537, 477); Y_controller Initial Position (-9730,-2048)
+2024-06-10 21:29:46.001 | INFO     | __main__:calibration:46 - Calibration Finished
+2024-06-10 21:32:02.157 | INFO     | __main__:__init__:28 - Initialization Two Line Actuators: X_controller and Y_controller
+2024-06-10 21:32:08.548 | INFO     | __main__:calibration:45 - Calibration Result: X_controller Initial Position (712, 251); Y_controller Initial Position (-9787,-2027)
+2024-06-10 21:32:08.550 | INFO     | __main__:calibration:46 - Calibration Finished
+2024-06-10 21:33:15.627 | INFO     | __main__:__init__:28 - Initialization Two Line Actuators: X_controller and Y_controller
+2024-06-10 21:33:22.027 | INFO     | __main__:calibration:45 - Calibration Result: X_controller Initial Position (129, 840); Y_controller Initial Position (-9982,-2032)
+2024-06-10 21:33:22.029 | INFO     | __main__:calibration:46 - Calibration Finished
+2024-06-10 21:41:34.867 | INFO     | pid_controller:__init__:26 - Initialization Two Line Actuators: X_controller and Y_controller
+2024-06-10 21:41:41.258 | INFO     | pid_controller:calibration:46 - Calibration Result: X_controller Initial Position (220, 426); Y_controller Initial Position (-9545, -3281)
+2024-06-10 21:41:41.260 | INFO     | pid_controller:calibration:47 - Calibration Finished
+2024-06-10 21:42:31.192 | INFO     | pid_controller:__init__:26 - Initialization Two Line Actuators: X_controller and Y_controller
+2024-06-10 21:42:37.596 | INFO     | pid_controller:calibration:46 - Calibration Result: X_controller Initial Position (-21, 555); Y_controller Initial Position (-9940, -2975)
+2024-06-10 21:42:37.597 | INFO     | pid_controller:calibration:47 - Calibration Finished
+2024-06-10 21:43:07.585 | INFO     | pid_controller:__init__:26 - Initialization Two Line Actuators: X_controller and Y_controller
+2024-06-10 21:43:13.976 | INFO     | pid_controller:calibration:46 - Calibration Result: X_controller Initial Position (-145, 399); Y_controller Initial Position (-9979, -3277)
+2024-06-10 21:43:13.977 | INFO     | pid_controller:calibration:47 - Calibration Finished
+2024-06-10 21:52:02.709 | INFO     | __main__:__init__:28 - Initialization Two Line Actuators: X_controller and Y_controller
+2024-06-10 21:52:09.109 | INFO     | __main__:calibration:45 - Calibration Result: X_controller Initial Position (-221, 348); Y_controller Initial Position (-9950,-3346)
+2024-06-10 21:52:09.110 | INFO     | __main__:calibration:46 - Calibration Finished
+2024-06-10 21:53:45.549 | INFO     | __main__:__init__:28 - Initialization Two Line Actuators: X_controller and Y_controller
+2024-06-10 21:53:51.939 | INFO     | __main__:calibration:45 - Calibration Result: X_controller Initial Position (-177, 437); Y_controller Initial Position (-10211,-2965)
+2024-06-10 21:53:51.940 | INFO     | __main__:calibration:46 - Calibration Finished
+2024-06-10 21:55:23.081 | INFO     | __main__:__init__:28 - Initialization Two Line Actuators: X_controller and Y_controller
+2024-06-10 21:55:29.483 | INFO     | __main__:calibration:45 - Calibration Result: X_controller Initial Position (-806, 1012); Y_controller Initial Position (-9830,-3912)
+2024-06-10 21:55:29.484 | INFO     | __main__:calibration:46 - Calibration Finished

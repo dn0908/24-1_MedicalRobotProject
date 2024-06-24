@@ -53,7 +53,7 @@ class Controller:
 def main():
     controller = Controller()
     controller.calibration()
-    controller.move(4,4)
+    controller.move(5,5)
     time.sleep(1)
     controller.move(-2,-2)
     time.sleep(1)
